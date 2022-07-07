@@ -1,0 +1,12 @@
+Package: redditsuite
+Type: Package
+Title: Helps collect data and store Reddit data
+Version: 0.1.0
+Author: Esteban Meneses
+Maintainer: Esteban Meneses <estebanmenesesg@gmail.com>
+Description: Helps pull data from praw, the Reddit handler written in python.
+    Stores data into a PostgreSQL database
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.0
